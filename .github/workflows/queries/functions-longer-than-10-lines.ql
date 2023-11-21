@@ -1,6 +1,6 @@
 /**
  * @description Find functions that are longer than 10 lines
- * @kind observation
+ * @kind problem
  * @id javascript/functions-longer-than-10-lines
  * @problem.severity recommendation
  */
